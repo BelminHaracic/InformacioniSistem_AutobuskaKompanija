@@ -21,3 +21,6 @@ Sljedeci koraj je otvoriti XAMPP Control Panel i kliknuti START na Apache i STAR
 Ovdje se baza kreira: http://localhost/phpmyadmin/
 
 A ovdje starta projekat: http://localhost/Projekat/
+
+Prijava za Admina: belmin Šifra: 1234
+Prijava za User: korisnik Šifra: 1234
