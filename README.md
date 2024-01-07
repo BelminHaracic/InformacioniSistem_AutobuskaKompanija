@@ -23,4 +23,5 @@ Ovdje se baza kreira: http://localhost/phpmyadmin/
 A ovdje starta projekat: http://localhost/Projekat/
 
 Prijava za Admina: belmin Šifra: 1234
+
 Prijava za User: korisnik Šifra: 1234
